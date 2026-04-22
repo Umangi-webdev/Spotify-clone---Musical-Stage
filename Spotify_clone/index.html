@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Clone</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/your-code.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <div class="logo">
+                <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_White.png" alt="Spotify">
+            </div>
+            <nav class="nav-links">
+                <ul>
+                    <li class="active"><i class="fas fa-home"></i> Home</li>
+                    <li><i class="fas fa-search"></i> Search</li>
+                    <li><i class="fas fa-book"></i> Your Library</li>
+                </ul>
+            </nav>
+        </aside>
+
+        <main class="main-content">
+            <header class="top-nav">
+                <div class="nav-buttons">
+                    <button class="circle-btn">&lt;</button>
+                    <button class="circle-btn">&gt;</button>
+                </div>
+            </header>
+            
+            <h1>Good Afternoon</h1>
+            <div class="card-container" id="cardContainer">
+                </div>
+        </main>
+
+        <footer class="music-player">
+            <div class="now-playing">
+                <img src="https://via.placeholder.com/50" alt="Album Art">
+                <div class="track-info">
+                    <p class="track-name">Song Name</p>
+                    <p class="artist-name">Artist</p>
+                </div>
+            </div>
+            <div class="player-controls">
+                <div class="control-btns">
+                    <i class="fas fa-random"></i>
+                    <i class="fas fa-step-backward"></i>
+                    <i class="fas fa-play-circle play-main"></i>
+                    <i class="fas fa-step-forward"></i>
+                    <i class="fas fa-redo"></i>
+                </div>
+                <div class="progress-bar">
+                    <span>0:00</span>
+                    <div class="bar-bg"><div class="bar-fill"></div></div>
+                    <span>3:45</span>
+                </div>
+            </div>
+            <div class="volume-controls">
+                <i class="fas fa-volume-up"></i>
+                <div class="bar-bg"><div class="bar-fill"></div></div>
+            </div>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
