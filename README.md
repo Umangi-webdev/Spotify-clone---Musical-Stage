@@ -90,19 +90,10 @@ This project is for educational purposes only and is not affiliated with Spotify
 
 ## 👨‍💻 Author
 
-**Your Name**
-🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
-
----
+https://github.com/Umangi-webdev
 
 ## ⭐ Show Your Support
 
 If you like this project, give it a ⭐ on GitHub!
 
----
-
-If you want, I can also:
-
-* Add **cool GitHub badges (build, stars, forks, etc.)**
-* Customize it with your **actual screenshots & repo link**
-* Make a **premium-level README with animations and GIFs**
+Made with love by Umangi Patel.
