@@ -4,9 +4,8 @@
 
 > A modern and responsive Spotify-inspired music streaming UI built using **HTML, CSS, and JavaScript**.
 
----
 
-## 🚀 Live Demo
+## 🚀 Github Code
 
 🔗 https://github.com/Umangi-webdev/Spotify-clone---Musical-Stage/tree/main
 
